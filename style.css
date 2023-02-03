@@ -129,6 +129,7 @@ main{
     position: relative;
     top: -30px;
     font-size: 17px;
+    font-weight: bold;
     cursor: pointer;
     outline: none;
     box-shadow: 2px 2px 15px 3px #ccc;
